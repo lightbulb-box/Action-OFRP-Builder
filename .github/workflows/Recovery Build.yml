@@ -21,7 +21,7 @@ jobs:
     env:
       SYNC_URL: https://gitlab.com/OrangeFox/sync.git
       MANIFEST_BRANCH: 12.1
-      DEVICE_TREE_URL: https://github.com/AzzyC/ofox_device_xiaomi_peridot
+      DEVICE_TREE_URL: https://github.com/lightbulb-box/ofox_device_xiaomi_peridot
       DEVICE_PATH: device/xiaomi/peridot
       DEVICE_NAME: peridot
       MAKEFILE_NAME: twrp_peridot
